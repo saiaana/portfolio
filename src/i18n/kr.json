@@ -1,0 +1,68 @@
+{
+    "hero": {
+      "title": "Hi, I'm Saiaana 👋🏻.",
+      "subtitle": "프론트엔드 개발자입니다!",
+      "description": "구조가 명확하고 실제 비즈니스에 활용 가능한 웹 애플리케이션을 개발합니다."
+    },
+
+        "mainTechnologies": {
+          "title": "주요 기술 스택",
+          "react": "React",
+          "nextjs": "Next.js",
+          "typescript": "TypeScript",
+          "javascript": "JavaScript(ES6+)",
+          "tailwind": "Tailwind CSS",
+          "redux": "Redux Toolkit",
+          "nodejs": "Node.js",
+          "express": "Express"
+        },
+        "coreSkills": {
+          "title": "핵심 역량",
+          "description": "컴포넌트 기반 UI 개발, 상태 관리(Redux Toolkit), 반응형 레이아웃, REST API 연동, 인증 플로우 구현"
+        },
+        "contact": {
+          "title": "연락처"
+        },
+        "projects": {
+            "01": {
+
+                    "id": "01",
+                    "title": "TINT",
+                    "description": "한국 화장품을 위한 풀스택 이커머스 플랫폼을 기획부터 구현까지 End-to-End로 개발한 프로젝트입니다.",
+                    "subtext": "상품 조회부터 주문 생성까지의 전체 구매 플로우, 역할 기반 권한 관리(User / Manager / Admin), 관리자 대시보드 및 매출 통계 기능을 구현했습니다. React, TypeScript, Redux Toolkit, Node.js, PostgreSQL을 사용했습니다.",
+                   "link": "https://korean-cosmetics-tint.vercel.app/",
+                    "GitHub": "https://github.com/saiaana/korean-cosmetics-TINT"
+                  
+                  
+            },
+            "02": {
+                "id": "02",
+                "title": "WATCH",
+                "description": "AI 기반 검색과 추천 기능을 제공하는 영화 및 TV 콘텐츠 탐색 플랫폼입니다.",
+                "subtext": "OpenAI를 활용한 프롬프트 기반 검색, TMDB 및 YouTube API 연동, 메타데이터 가중치를 적용한 추천 로직을 구현했습니다. Next.js와 TypeScript로 개발했습니다.",
+                   "link": "https://watch-the-movie-app.vercel.app/",
+                    "GitHub": "https://github.com/saiaana/WATCH"
+              },
+              "03":{
+                "id": "03",
+                "title": "NoteFlow",
+                "description": "태그와 검색 기능을 중심으로 한 노트 관리 웹 애플리케이션입니다.",
+                "subtext": "노트 생성·편집, 태그 기반 필터링, 전체 텍스트 검색, 정렬 및 페이지네이션 기능을 구현했습니다. React/Next.js, Node.js, Express, MongoDB, JWT 기반 인증을 사용했습니다.",
+                "GitHub": "https://github.com/saiaana/NoteFlow"
+              },
+              
+                "04": {
+                  "id": "04",
+                  "title": "Tarot App",
+                  "description": "AI 기반 예측 기능을 제공하는 다국어 타로 리딩 모바일 앱입니다.",
+                  "subtext": "React Native/Expo로 78장의 타로 카드 덱을 구현하고, OpenAI GPT-4를 연동해 개인화된 타로 해석을 제공합니다. i18next를 활용해 러시아어, 영어, 한국어 다국어 지원을 구현했으며, 사용자는 질문을 입력하고 카드를 뽑아 AI가 생성한 신비로운 해석을 받을 수 있습니다."
+                }
+              
+              
+              
+              
+        }
+    
+      
+  }
+  

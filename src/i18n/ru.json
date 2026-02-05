@@ -1,0 +1,71 @@
+{
+    "hero": {
+      "title": "Привет, я Саяна 👋🏻.",
+      "subtitle": "Фронтенд-разработчик",
+      "description": "Разрабатываю готовые к продакшену веб-приложения с фокусом на архитектуру и бизнес-логику."
+    },
+
+        "mainTechnologies": {
+          "title": "Основные технологии",
+          "react": "React",
+          "nextjs": "Next.js",
+          "typescript": "TypeScript",
+          "javascript": "JavaScript (ES6+)",
+          "tailwind": "Tailwind CSS",
+          "redux": "Redux Toolkit",
+          "nodejs": "Node.js",
+          "express": "Express"
+        },
+        "coreSkills": {
+          "title": "Ключевые навыки",
+          "description": "Компонентная разработка UI, управление состоянием (Redux Toolkit), адаптивная вёрстка, интеграция REST API, реализация аутентификации"
+        },
+        "contact": {
+          "title": "Связаться со мной"
+        },
+        "projects": {
+            "01": {
+
+                    "id": "01",
+                    "title": "TINT",
+                    "description": "Полнофункциональная e-commerce платформа для корейской косметики, реализованная от архитектуры до деплоя.",
+                    "subtext": "Реализован полный цикл покупки, ролевая модель доступа (User / Manager / Admin), админ-панель и аналитика продаж. Стек: React, TypeScript, Redux Toolkit, Node.js, PostgreSQL.",
+                    "link": "https://korean-cosmetics-tint.vercel.app/",
+                    "GitHub": "https://github.com/saiaana/korean-cosmetics-TINT"
+                  },
+                  "02": {
+                    "id": "02",
+                    "title": "WATCH",
+                    "description": "Платформа для поиска и рекомендаций фильмов и сериалов с использованием AI.",
+                    "subtext": "Реализован prompt-based поиск с OpenAI, интеграции с TMDB и YouTube, а также рекомендательная логика на основе метаданных. Проект разработан на Next.js и TypeScript.",
+                    "link": "https://watch-the-movie-app.vercel.app/",
+                    "GitHub": "https://github.com/saiaana/WATCH"
+                  },
+                  "03": {
+                    "id": "03",
+                    "title": "NoteFlow",
+                    "description": "Веб-приложение для ведения заметок с поддержкой тегов, поиска и структурирования контента.",
+                    "subtext": "Реализованы создание и редактирование заметок, фильтрация по тегам, полнотекстовый поиск, сортировка и пагинация. Стек: React/Next.js, Node.js, Express, MongoDB, JWT-аутентификация.",
+                    "GitHub": "https://github.com/saiaana/NoteFlow"
+                  },
+                  
+                    "04": {
+                      "id": "04",
+                      "title": "Tarot App",
+                      "description": "Многоязычное мобильное приложение для гаданий на Таро с AI-прогнозами.",
+                      "subtext": "Мобильное приложение на React Native/Expo с колодой из 78 карт Таро. Интегрирован OpenAI GPT-4 для генерации персонализированных раскладов и реализована поддержка нескольких языков (русский, английский, корейский) с использованием i18next. Пользователи задают вопросы, тянут карты и получают мистические интерпретации, сгенерированные AI."
+                    }
+                  
+                  
+                  
+            }
+
+              
+              
+              
+              
+        }
+
+      
+  
+  

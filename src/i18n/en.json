@@ -1,0 +1,67 @@
+{
+    "hero": {
+      "title": "Hi I'm Saiaana 👋🏻.",
+      "subtitle": "A Frontend Developer",
+      "description": "I build production-ready web applications with a focus on clean architecture and real business flows."
+    },
+    "mainTechnologies": {
+        "title": "Main Technologies",
+        "react": "React",
+        "nextjs": "Next.js",
+        "typescript": "TypeScript",
+        "javascript": "JavaScript (ES6+)",
+        "tailwind": "Tailwind CSS",
+        "redux": "Redux Toolkit",
+        "nodejs": "Node.js",
+        "express": "Express"
+      },
+      "coreSkills": {
+        "title": "Core Skills",
+        "description": "Component-based UI development, State management (Redux Toolkit), Responsive layout, REST API integration, Authentication flows"
+      },
+      "contact": {
+        "title": "Contact Me"
+      },
+      "projects": {
+        "01": {
+          "id": "01",
+          "title": "TINT",
+          "description": "A full-featured e-commerce platform for Korean cosmetics, designed and developed end-to-end.",
+          "subtext": "Implemented complete purchase flow, role-based access (User / Manager / Admin), admin dashboard, and sales analytics. Built with React, TypeScript, Redux Toolkit, Node.js, and PostgreSQL.",
+                     "link": "https://korean-cosmetics-tint.vercel.app/",
+                    "GitHub": "https://github.com/saiaana/korean-cosmetics-TINT"
+        },
+        "02": {
+            
+                "id": "02",
+                "title": "WATCH",
+                "description": "A movie and TV show discovery platform with AI-powered search and recommendations.",
+                "subtext": "Built a prompt-based search using OpenAI, integrated TMDB and YouTube APIs, and implemented recommendation logic with metadata weighting. Developed with Next.js and TypeScript.",
+                "link": "https://watch-the-movie-app.vercel.app/",
+                    "GitHub": "https://github.com/saiaana/WATCH"
+              
+              
+        },
+        "03": {
+            "id": "03",
+            "title": "NoteFlow",
+            "description": "A note-taking web application with tagging, search, and content organization features.",
+            "subtext": "Implemented note creation and editing, tag-based filtering, full-text search, sorting, and pagination. Built with React/Next.js, Node.js, Express, MongoDB, and JWT-based authentication.",
+            "GitHub": "https://github.com/saiaana/NoteFlow"
+          },
+          "04": {
+            "id": "04",
+            "title": "Tarot App",
+            "description": "A multilingual Tarot reading mobile app with AI-powered predictions.",
+            "subtext": "Built a React Native/Expo app with 78 Tarot cards, integrated OpenAI GPT-4 for generating personalized readings, and implemented multi-language support (Russian, English, Korean) with i18next. Users ask questions, draw cards, and receive AI-generated mystical interpretations."
+          }
+          
+          
+
+      }
+
+          
+      
+  }
+  
+
