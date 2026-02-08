@@ -21,20 +21,6 @@ export default function ContactSection() {
         >
           saygrig@gmail.com
         </a>
-        <div className="flex shrink-0 items-center gap-4">
-          <img
-            src="/arrow-down.svg"
-            alt=""
-            className="h-5 w-6 shrink-0"
-            aria-hidden
-          />
-          <a
-            href="#"
-            className="font-inter text-base font-normal tracking-[-0.03em] text-[#181717] hover:underline md:text-[18px]"
-          >
-            View Resume
-          </a>
-        </div>
       </div>
     </div>
   );
